@@ -1,0 +1,3 @@
+-- One note Link about VS code debugging with "debugger for chrome" extension.
+https://onedrive.live.com/view.aspx?resid=A8D4136038BE9088%21125&id=documents&wd=target%28React.one%7C745721CA-5F6B-4622-BCC9-E56FD750B3C5%2FVS%20Code%20Debug%20with%20create-react-app%E8%84%9A%E6%89%8B%E6%9E%B6%7C358744F9-AD41-4581-9E2A-D63650141E93%2F%29
+onenote:https://d.docs.live.net/a8d4136038be9088/Documents/Frank%20Sun%20的笔记本/React.one#VS%20Code%20Debug%20with%20create-react-app脚手架&section-id={745721CA-5F6B-4622-BCC9-E56FD750B3C5}&page-id={358744F9-AD41-4581-9E2A-D63650141E93}&end
